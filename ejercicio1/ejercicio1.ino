@@ -14,3 +14,4 @@ void loop() {
   delay(1000);
   //de las clases mas usadas en aurduino, pausa el programa, no se manda ni se recibe en milisegundos
 }
+//arduino
